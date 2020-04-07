@@ -1,0 +1,24 @@
+{
+  "name": "apple-page-clone",
+  "version": "1.0.0",
+  "description": "A clone of the Apple.com Page\r ![A Snapshot of the NewYork Time's page](/images/snapshot.png)",
+  "main": "stylelint.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taiwocoker/Apple-page-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taiwocoker/Apple-page-clone/issues"
+  },
+  "homepage": "https://github.com/taiwocoker/Apple-page-clone#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "stylelint": "^13.3.0",
+    "stylelint-config-recommended": "^3.0.0"
+  }
+}
