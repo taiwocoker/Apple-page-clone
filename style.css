@@ -127,3 +127,37 @@ header {
 .four-images img {
     width: 357px;
 }
+
+footer {
+    max-width: 60%;
+    margin: auto;
+    margin-bottom: 20px;
+    font-size: 14px;
+    margin-top: 20px;
+  }
+
+footer a {
+    font-size: 9px;
+    color: #99b3ff
+}
+
+.footer-content {
+    margin-bottom: 10px;
+}
+  
+.content-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    padding-right: 0 3px;
+}
+  
+.links h6 {
+    padding: 0 3px;
+}
+  
