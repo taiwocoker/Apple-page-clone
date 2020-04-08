@@ -33,7 +33,8 @@ header {
   align-items: center;
   height: 600px;
   margin: 0 auto;
-  width: 93%;
+  width: 100%;
+  max-width: 1440px;
 }
 
 .nav-bar {
@@ -124,13 +125,19 @@ footer a {
 }
 
 .four-images {
-  margin-left: 50px;
+  display: flex;
+  justify-content: center;
   width: 100%;
+  height: 200px;
+  margin: 0 auto;
+  padding: 0px 0 10px 0;
+  max-width: 1440px;
 }
 
 .four-images img {
-  width: 310px;
-}
+  width: 100%;
+  height: 200px;
+} 
 
 footer {
   max-width: 60%;
